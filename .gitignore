@@ -1,0 +1,16 @@
+# Environment variables (DO NOT commit)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+
+# SQLite database
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
